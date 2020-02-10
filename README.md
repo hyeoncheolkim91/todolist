@@ -8,5 +8,5 @@
 It will run on your <localhost:3000>
 
 ## To create custom list
- localhost:3000/<your name of list>
+ localhost:3000/your-name-of-list
   
