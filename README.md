@@ -1,5 +1,5 @@
 
-# todolist
+# To do list
 
 ## Use following command:
  * $npm i  // to install packages.
@@ -11,4 +11,4 @@ It will run on your <localhost:3000>
 ## To create custom list
  localhost:3000/your-name-of-list
   
-![Screenshot](img/todo.png)
+![Screenshot](img/todolist.png)
