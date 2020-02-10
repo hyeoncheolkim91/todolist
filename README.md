@@ -1,4 +1,4 @@
-![/img](todo.png)
+![docs/img](todo.png)
 # todolist
 
 ## Use following command:
