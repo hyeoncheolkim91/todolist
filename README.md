@@ -1,4 +1,4 @@
-![docs/img](todo.png)
+
 # todolist
 
 ## Use following command:
@@ -11,3 +11,4 @@ It will run on your <localhost:3000>
 ## To create custom list
  localhost:3000/your-name-of-list
   
+![Screenshot](img/todo.png)
